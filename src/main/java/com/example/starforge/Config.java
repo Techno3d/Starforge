@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.example.starforge;
 
 import java.util.List;
 import java.util.Set;
